@@ -200,7 +200,7 @@ def mensaje():
                 <li><strong>developer_reviews_analisis</strong>(developer - ej: capcom): devuelve una lista con la cantidad total de reseñas de usuarios que se encuentren categorizadas con un análisis de sentimiento como valor positivo o negativo</li>
                 <li><strong>recomendacion_juego</strong>(item_id - ej: 70): devuelve lista con 5 juegos recomendados similares al ingresado </li>
             </ul>
-            <p>Para probar los endpoints ingresar a: <a href="http://localhost:8000/docs">Endpoints del MVP</a>.</p>
+            <p>Para probar los endpoints ingresar a: <a href="https://p1-render.onrender.com/docs">Endpoints del MVP</a>.</p>
             <p>Autor: Leandro Funes.</p>
             <p>GitHub: <a href="https://github.com/LJFunes">LJFunes</a></p>
         </body>
